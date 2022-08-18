@@ -1,6 +1,0 @@
-commit b123892 (HEAD -> master, origin/master, origin/HEAD)
-Author: Radityaz
-Date:   Fri Aug 08 10:10:33 2022 -0500
-
-    Commit from another computer!
-
